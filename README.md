@@ -1,2 +1,2 @@
 # code
-非常基础的爬虫代码，基于python3.5，用的是requests+bs4
+以糗事百科为目标的非常基础的爬虫代码，基于python3.5，用的是requests+bs4
